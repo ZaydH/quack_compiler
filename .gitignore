@@ -1,3 +1,15 @@
+# Miscellaneous files
+tags
+.DS_Store
+.ropeproject/
+
+# Docs folders
+docs/api/
+docs/build/
+docs/_build/
+docs/doxyoutput/
+docs/source/
+
 # Prerequisites
 *.d
 
